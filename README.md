@@ -11,7 +11,7 @@
 <h2 align="center">CodeBank - Website</h2>
 Discover smart AI solutions for your Finance and Stocks trading. Explore our products and services today. Made this projects using Tailwind CSS.
 
-<a href="https://home-smart-website.onrender.com/"><strong>➥ Live Demo</strong></a>
+<a href="https://code-bank-website.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
