@@ -34,13 +34,13 @@ To run **Code Bank**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/Coe-Bank.git
+sudo git clone https://github.com/Pranav-Jadhav09/Code-Bank.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/Code-Bak.git
+git clone https://github.com/Pranav-Jadhav09/Code-Bank.git
 ```
 
 ## License
